@@ -1,0 +1,6 @@
+framework module UBiXMFancyAdapter {
+  umbrella header "UBiXMFancyAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
