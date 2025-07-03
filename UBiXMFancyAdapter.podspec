@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiXMFancyAdapter'
-  s.version          = '2.2.750.0'
+  s.version          = '2.2.750.1'
   s.summary          = 'UBiX聚合广告变现SDK Fancy Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
